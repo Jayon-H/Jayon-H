@@ -4,7 +4,7 @@
 <div align="center"> <img height="300px" src="https://github-readme-stats.vercel.app/api?username=Jayon-H&theme=dark&show_icons=true&border_radius=15.0"
  /> </div>
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jayon-H&theme=dracula&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jayon-H&theme=dracula&radius=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
