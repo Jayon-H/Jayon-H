@@ -1,5 +1,5 @@
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Welcome!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,there;Welcome!&center=true&color=#000000&size=40"> </a> </h1>
 
 <div align="center"> <img height="250px" src="https://github-readme-stats.vercel.app/api?username=Jayon-H&theme=dark&show_icons=true&border_radius=10.0"
  /> </div>
