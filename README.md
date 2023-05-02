@@ -3,6 +3,8 @@
 
 <div align="center"> <img height="250px" src="https://github-readme-stats.vercel.app/api?username=Jayon-H&theme=dark&show_icons=true&border_radius=10.0"
  /> </div>
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jayon-H&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
