@@ -4,8 +4,7 @@
 <div align="center"> <img height="350px" src="https://github-readme-stats.vercel.app/api?username=Jayon-H&theme=dark&show_icons=true&border_radius=15.0"
  /> </div>
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jayon-H&theme=dracula&radius=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayon-H&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **Jayon-H/Jayon-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
